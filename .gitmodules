@@ -1,0 +1,3 @@
+[submodule "SmartThingsPublic"]
+	path = SmartThingsPublic
+	url = git@github.com:Tjcav/SmartThingsPublic.git
