@@ -1,5 +1,6 @@
 #include <Wire.h>
 #include "ZUNO_MCP23017.h"
+#include "ArduinoCAPI.h"
 
 // Basic pin reading and pullup test for the MCP23017 I/O expander
 // public domain!

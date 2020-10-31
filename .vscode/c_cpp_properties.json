@@ -4,7 +4,9 @@
             "name": "Linux",
             "includePath": [
                 "/home/tom/.arduino15/packages/Z-Uno/tools/**",
-                "/home/tom/.arduino15/packages/Z-Uno/hardware/zw8051/2.1.7/**"
+                "/home/tom/.arduino15/packages/Z-Uno/hardware/zw8051/2.1.7/**",
+                "/home/tom/.arduino15/packages/Z-Uno/hardware/zw8051/2.1.7/cores/zuno"
+
             ],
             "forcedInclude": [],
             "intelliSenseMode": "gcc-x64",
