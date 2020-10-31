@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/tom/.arduino15/packages/Z-Uno/tools/**",
+                "/home/tom/.arduino15/packages/Z-Uno/hardware/zw8051/2.1.7/**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu18",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
