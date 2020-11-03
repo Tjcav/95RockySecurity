@@ -17,7 +17,7 @@
 ZUNO_MCP23017 mcp;
   
 void setup() {  
-  mcp.begin();      // use default address 0
+  mcp.begin(0x27);      // use default address 0
 
   mcp.pinMode(0, INPUT);
   mcp.pullUp(0, HIGH);  // turn on a 100K pullup internally

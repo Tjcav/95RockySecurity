@@ -2,5 +2,7 @@
     "board": "Z-Uno:zw8051:zuno",
     "configuration": "NVMClean=Off",
     "sketch": "src/controller.ino",
-    "output": "build"
+    "output": "build",
+    "port": "COM5",
+    "programmer": "Z-Uno Programmer"
 }
