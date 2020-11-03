@@ -13,6 +13,18 @@
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "gnu18",
             "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\Z-Uno\\hardware\\zw8051\\2.1.7\\**",
+                "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\Z-Uno\\tools\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\Z-Uno\\tools\\zuno_toolchain\\00.08.82\\zuno_toolchain\\compiler",
+            "cStandard": "gnu18",
+            "cppStandard": "c++17"
         }
     ],
     "version": 4
